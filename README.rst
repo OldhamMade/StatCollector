@@ -38,3 +38,4 @@ Usage
 5. Run the script::
 
     $ ./bin/collector -c path/to/config.yml
+
